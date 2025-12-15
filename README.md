@@ -1,6 +1,6 @@
 # Instagram Multi Tool
 
-t.me/stillalive92
+t.me/sxl92
 
 A multifunctional Instagram utility written in Python.
 
